@@ -6,9 +6,9 @@ color:
   saturation: 0.9401294921990484
   rhythmicContrast: 0.5218969259876758
   brandColors:
-    - '#1C120A'
-    - '#00BBB8'
-    - '#4F4F4F'
-    - '#9F9B92'
-    - '#FFFFFF'
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
 name: conrado
