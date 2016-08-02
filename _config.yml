@@ -1,0 +1,14 @@
+layout_spectrum: 0.4252285738475621
+typography_spectrum: 0.8160707845818251
+color:
+  brandStrength: 0.8691207263618708
+  lightness: 0.27974823489785194
+  saturation: 0.9401294921990484
+  rhythmicContrast: 0.5218969259876758
+  brandColors:
+    - '#1C120A'
+    - '#00BBB8'
+    - '#4F4F4F'
+    - '#9F9B92'
+    - '#FFFFFF'
+name: conrado
